@@ -11,7 +11,7 @@
   "  
 "------------------------
 
-" ==== steps to install plugins ==== *
+" ==== steps to install plugins ==== 
   " you need to execute vim/nvim and in command mode i.e by clicking : key execute PlugIntall <enter>
   " it will install all plug-in listed below in this file
 "---------------------
